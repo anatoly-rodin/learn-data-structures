@@ -1,1 +1,1 @@
-# learn-data-structures
+# Изучение структур данных
